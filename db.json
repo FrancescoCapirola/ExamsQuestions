@@ -1,0 +1,35 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "questionText": "A new field-based salesperson has joined WidgetsXYZ and started using Salesforce for the first time. You are the administrator at WidgetsXYZ, and the salesperson is telling you that they are always prompted to activate their laptop and always use the same browser. How would you respond?",
+      "possibleAnswers": [
+        "Verify that the Trusted IP Ranges for Salesforce have been configured correctly.",
+        "Verify that Login hour restrictions for Salesforce have been configured.",
+        "Verify that browser cookies are being stored on the salesperson's laptop correctly.",
+        "Explain to the salesperson that this is normal behavior and that the laptop is responding as expected."
+      ],
+      "correctAnswerss": [
+        "Verify that the Trusted IP Ranges for Salesforce have been configured correctly."
+      ],
+      "isMultipleAnswers": false
+    },
+    {
+      "id": 1,
+      "questionText": "Which settings can be modified for individual users? (Select 3)",
+      "possibleAnswers": [
+        "Currency",
+        "Search settings",
+        "Language",
+        "Locale",
+        "User Interface"
+      ],
+      "correctAnswers": [
+        "Currency",
+        "Language",
+        "Locale"
+      ],
+      "isMultipleAnswers": true
+    }
+  ]
+}
