@@ -9,8 +9,8 @@
         "Verify that browser cookies are being stored on the salesperson's laptop correctly.",
         "Explain to the salesperson that this is normal behavior and that the laptop is responding as expected."
       ],
-      "correctAnswerss": [
-        "Verify that the Trusted IP Ranges for Salesforce have been configured correctly."
+      "correctAnswers": [
+        0
       ],
       "isMultipleAnswers": false
     },
@@ -25,9 +25,9 @@
         "User Interface"
       ],
       "correctAnswers": [
-        "Currency",
-        "Language",
-        "Locale"
+        0,
+        2,
+        3
       ],
       "isMultipleAnswers": true
     }
